@@ -1,0 +1,20 @@
+Ans 1   hour angle= 0.5 * (h * 60 + m)
+        minute angle =  6 * m
+
+Ans 2   1000-960=40rs is 20% loss he is facing.
+        if 40rs is 20% 1% is 2rs
+        Therefore cost of fan 100%*2rs=200rs
+
+Ans 3   125m in 10s 
+        Therefore speed is 12.5m/s or 45km/hour
+        this is relative speed.
+        Actual speed = relative speed + speed of man
+                     = 45 + 5 km/hour
+         final ans   = 50km/hour
+            
+Ans 4   4x + 6x + 9x = y
+        7x + 9x + 12x = y -36  (12 increased per class i.e. 36)
+
+        Therefore y = 19x putting in second equation
+        we get 9x = 36 i.e x=4 
+        Therefore initial strength of classes 16,24,36
